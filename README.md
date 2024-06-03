@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm mohammad taha afzali nia</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
+<h1 align="center">I'm Mohammad Taha Afzali Nia</h1>
 
 - 🌱 I’m currently learning **django rest framework**
 
