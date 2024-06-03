@@ -1,4 +1,4 @@
-<h1 align="center">I'm Mohammad Taha Afzali Nia</h1>
+<h1 align="center">Mohammad Taha Afzali Nia</h1>
 
 - 🌱 I’m currently learning **django rest framework**
 
