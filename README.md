@@ -1,6 +1,6 @@
 <h1 align="center">Mohammad Taha Afzali Nia</h1>
 
-- 🌱 I’m currently learning **django rest framework**
+- 🌱 I’m currently learning **django rest framework** and **celery**
 
 - 💬 Ask me about **python and django**
 
