@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tahaafzaly" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-2038471-1718509.png?f=webp&w=256" alt="tahaafzaly" height="35" width="35" /></a>
 <a href="https://t.me/mohammadtahaafzalinia" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3-226554.png?f=webp&w=256" alt="Taham34" height="35" width="35" /></a>
 <a href="https://stackoverflow.com/users/24880523/mohammad-taha-afzali-nia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-taha-afzali-nia" height="35" width="35" /></a>  
 </p>
