@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" alt="python" width="40" height="40"/
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" alt="python" width="40" height="40"/>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" id="redis">
   <path fill="#A41E11" d="M121.8 93.1c-6.7 3.5-41.4 17.7-48.8 21.6-7.4 3.9-11.5 3.8-17.3 1s-42.7-17.6-49.4-20.8c-3.3-1.6-5-2.9-5-4.2v-12.7s48-10.5 55.8-13.2c7.8-2.8 10.4-2.9 17-.5s46.1 9.5 52.6 11.9v12.5c0 1.3-1.5 2.7-4.9 4.4z"></path>
